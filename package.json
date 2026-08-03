@@ -8,6 +8,7 @@
     "build": "echo \"Build passed\" && exit 0"
   },
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.17.20",
+    "@fortawesome/pro-light-svg-icons": "5.15.3"
   }
 }
