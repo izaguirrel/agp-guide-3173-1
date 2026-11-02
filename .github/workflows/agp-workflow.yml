@@ -25,9 +25,6 @@
 name: Sonatype Guide - Agent P
 
 on:
-  schedule:
-    # Runs once a day. Change it to any schedule preferred.
-    - cron: '51 22 * * *'
   workflow_dispatch:
     inputs:
       verbose:
